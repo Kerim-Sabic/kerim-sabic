@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Kerim Sabic</h1>
 
-<!--
-**Kerim-Sabic/kerim-sabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Founder and CEO at <strong>Horalix</strong> | Leading innovation and empowering teams to build impactful digital solutions.
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an entrepreneur and technology leader with extensive experience building products and leading cross-functional teams. At **Horalix**, I oversee strategy, product development and partnerships to deliver cutting-edge solutions that help our clients solve complex challenges.
+
+- 🔯 Current focus: expanding Horalix’s product portfolio and exploring opportunities in emerging tech
+- 💡 Passionate about combining business acumen with technical expertise
+- 🤝 Always open to connecting with innovators, investors and collaborators who share our vision
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/kerims](https://www.linkedin.com/in/kerims)
+- Website: [horalix.com](https://horalix.com)
