@@ -16,3 +16,4 @@ I’m an entrepreneur and technology leader with extensive experience building p
 
 - LinkedIn: [linkedin.com/in/kerims](https://www.linkedin.com/in/kerims)
 - Website: [horalix.com](https://horalix.com)
+🧗‍♂️😄🤩🤖😛
