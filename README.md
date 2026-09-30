@@ -3,7 +3,8 @@
 <p align="center"><strong>I build tools for sharing files, writing software, and working across languages.</strong></p>
 
 <p align="center">
-Founder of <a href="https://horalix.com">Horalix</a> · Building in public from Sarajevo
+Founder of <a href="https://horalix.com">Horalix</a> · Building in public from Sarajevo<br />
+<strong>Featured in Forbes</strong>
 </p>
 
 <p align="center">
